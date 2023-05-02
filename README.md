@@ -1,62 +1,43 @@
-<h2> Hey there! I'm Ahmad. I am a Software Engineer</h2>
+<h2 align="center"> Hey there 👋 I'm Asim Kamran</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<!-- ## 👋 &nbsp;Hey there! I'm Chathura -->
+<h2 align="left"> I'm a Full Stack Software Developer</h2>
 
-- 🤔 &nbsp; MERN Web Developer | Freelance ;
-- 🎓 &nbsp; Graduted as BS Software Engineering ;
-- 💼 &nbsp; Working as a Web Developer ;
-- ✍️ &nbsp; Always Learning New Technologies;
+### 👨🏻‍💻 &nbsp;About Me
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;Currently, I am studying for a bachelor's degree in information technology at UCSC.\
+🌱 &nbsp;I'm on track for learning more about DevOps, Web Security, and Cloud Technologies(AWS).\
+📄 &nbsp;Please have a look at my [Resume](https://chathuraperera.netlify.app/Chathura_Perera_CV.pdf) for more details about me. I'm open to feedback and suggestions!
 
-- 🌐 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/express-js?style=flat&logo=express)
-  ![Redux](https://img.shields.io/badge/%20%20%20%20-redux-%238551DA?logo=redux)
-  ![Material UI](https://img.shields.io/badge/%20%20%20%20-materialui-%238551DA)
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+<img alt="Night Coding" width='200px' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<br/>
+### 🛠 &nbsp;Tech Stack
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazonaws&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&)&nbsp;
+
+
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/umad-ahmad-653319184/" target="_blank"><img src="https://img.shields.io/badge/-Umad%20Ahmad-brightgreen?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:umadahmad1928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-umadahmad1928%40gmail.com-informational?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://chathuraperera.netlify.app/"><img src="https://img.shields.io/badge/-chathuraperera-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://https://www.linkedin.com/in/asim-kamran-680512198//"><img src="https://img.shields.io/badge/-Chathura%20Perera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:asimkamran1999@gmail.com"><img src="https://img.shields.io/badge/-chathuraperera007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/VictorChathura"><img src="https://img.shields.io/badge/-VictorChathura-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=Blogen-App-Node-Express-Js&theme=dracula)](https://github.com/UAhmadSoft/Blogen-App-Node-Express-Js)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=MERN-Chat-App-frontend&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/UAhmadSoft/MERN-Chat-App-frontend)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UAhmadSoft&repo=Color-Project-Frontend-React&theme=cobalt)](https://github.com/UAhmadSoft/Color-Project-Frontend-React)
-
-### [UAhmadSoft's Github Stats](https://github.com/UAhmadSoft/my-github-stats)
-
-## Contribution Graph
-
-[![UAhmadSoft's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uAhmadSoft&theme=react-dark)](https://github.com/uahmadsoft)
-
- <br>
-
-<a href="https://github.com/UAhmadSoft/my-github-stats">
-
-![](https://github.com/UAhmadSoft/my-github-stats/blob/master/generated/overview.svg)
-![](https://github.com/UAhmadSoft/my-github-stats/blob/master/generated/languages.svg)
-
-</a>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=uahmadsoft&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" />
