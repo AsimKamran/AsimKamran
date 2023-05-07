@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Currently, I am undergraduate in bachelor's degree of Computer Science at FAST-NUCES.\
 🌱 &nbsp;I'm on track for learning more about DevOps, Web Security, and Cloud Technologies(AWS).\
-📄 &nbsp;Please have a look at my [Resume](https://asjnk.netlify.app/asimkaman_CV.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1lg-r0aQ_5mjOrvzez8YcRthPUkCQEtXp/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" width='200px' src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
 <a href="https://assimkam.netlify.app/"><img src="https://img.shields.io/badge/-AsimKamran-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://https://www.linkedin.com/in/asim-kamran-680512198/"><img src="https://img.shields.io/badge/-Asim%20Kamran-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/asim-kamran-680512198/"><img src="https://img.shields.io/badge/-Asim%20Kamran-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:asim.kamran1999@gmail.com"><img src="https://img.shields.io/badge/-asim.kamran1999.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
